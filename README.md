@@ -5,4 +5,5 @@ This is a book recommendation system that uses collaborative filtering and conte
 Features:
 
 Recommends books based on user ratings and content similarity.
+
 Easy-to-use Streamlit interface for users to get personalized book suggestions.
