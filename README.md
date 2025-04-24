@@ -1,4 +1,4 @@
-Book Recommender System
+# Book Recommender System
 
 This is a book recommendation system that uses collaborative filtering and content-based filtering techniques to recommend books to users. Built with Streamlit for the interactive UI.
 
